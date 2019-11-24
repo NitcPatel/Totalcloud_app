@@ -1,0 +1,4 @@
+1. Extract the zip file.
+2. Go to the project directory.
+3. Then run the npm install commond on your terminal window.
+4. Then run the npm start commands.

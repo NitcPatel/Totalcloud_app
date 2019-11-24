@@ -1,0 +1,32 @@
+#nav{
+    height: 140px;
+    width: auto;
+    background-color: blue;
+    color: white;
+}
+#h1{
+    margin-left: 10px;
+    margin-top:20px ;
+}
+#h2{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif,Bold;
+}
+#logo{
+    relative: size 40px;;
+}
+a{
+    color: white;
+}
+#but1{
+    margin-top: 140px;
+    width: 150px;
+}
+#but2{
+    width: 150px;
+}
+img{
+    height: 45px;
+    width: 35px;
+    padding: 5px;
+}
